@@ -34,8 +34,7 @@ A simple Flappy Bird clone built using **Phaser 3**.
    ```
 3. Open `index.html` in your browser.
 
-## 🖼️ Screenshots
-*(Add game screenshots here)*
+
 
 ## 🔥 Future Improvements
 - Add more bird skins
