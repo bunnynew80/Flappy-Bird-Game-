@@ -1,9 +1,10 @@
-# Flappy Bird Clone
+# Flappy Bird clone
 
 A simple Flappy Bird clone built using **Phaser 3**.
 
 ## 🚀 Live Demo
-[Play the Game](#) https://sayanmaity-me.github.io/Flappy-Bird-Game-/
+[Play the Game](#) 
+https://sayanmaity-me.github.io/Flappy-Bird-Game-/
 
 ## 🎮 Features
 - Classic Flappy Bird mechanics
