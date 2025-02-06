@@ -45,7 +45,6 @@ https://sayanmaity-me.github.io/Flappy-Bird-Game-/
 
 ## 📧 Contact
 If you have any suggestions or issues, feel free to reach out!
-
 ---
 ⭐ **Star this repo if you like it!** ⭐
 
