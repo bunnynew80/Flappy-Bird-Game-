@@ -1,4 +1,4 @@
-# Flappy Bird clone
+# Flappy Bird Game
 
 A simple Flappy Bird clone built using **Phaser 3**.
 
