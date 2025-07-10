@@ -1,4 +1,4 @@
-# Flappy Bird Game
+# Flappy Bird Game (by dark bunny)
 
 A simple Flappy Bird clone built using **Phaser 3**.
 
